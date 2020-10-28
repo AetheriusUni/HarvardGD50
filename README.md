@@ -1,7 +1,7 @@
 # HarvardGD50
 Harvard's GD50 Class Assignments
 
-0 - Pong *runs with LOVE2D  
+0 - Pong *  
 1 - Flappy Bird  
 2 - Breakout  
 3 - Match 3  
@@ -13,3 +13,5 @@ Harvard's GD50 Class Assignments
 9 - Dreadhalls  
 10 - Portal  
 11 - Portal Problems  
+  
+*runs with LOVE2D, click and drag the assignment folder ex. 0-Pong onto a love.exe and the game will launch

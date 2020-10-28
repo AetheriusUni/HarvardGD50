@@ -14,4 +14,4 @@ Harvard's GD50 Class Assignments
 10 - Portal  
 11 - Portal Problems  
   
-*runs with LOVE2D, click and drag the assignment folder ex. 0-Pong onto a love.exe and the game will launch
+*runs with LOVE2D, click and drag the assignment folder ex. 0-Pong onto a love.exe and the game will launch; get LOVE2D here https://love2d.org/

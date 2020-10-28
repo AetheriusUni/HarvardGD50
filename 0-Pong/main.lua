@@ -249,15 +249,17 @@ function love.update(dt)
     --else
     --    player2.dy = 0
     --end
-    --if player2 ~= nil then
-    if player2.y > ball.y then
+
+    -- reduce player2 PaddleSpeed to loweer difficulty
+
+    if player2.y + player2.height/2 > ball.y + ball.height/2 then
         player2.dy = -PADDLE_SPEED
-    elseif player2.y < ball.y then
+    elseif player2.y + player2.height/2 < ball.y + ball.height/2 then
         player2.dy = PADDLE_SPEED
     else
         player2.dy = 0
     end
-    --end
+
 
     -- update our ball based on its DX and DY only if we're in play state;
     -- scale the velocity by dt so movement is framerate-independent

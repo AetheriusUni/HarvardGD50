@@ -1,7 +1,7 @@
 # HarvardGD50
 Harvard's GD50 Class Assignments
 
-0 - Pong  
+0 - Pong *runs with LOVE2D  
 1 - Flappy Bird  
 2 - Breakout  
 3 - Match 3  

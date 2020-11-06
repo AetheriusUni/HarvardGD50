@@ -2,7 +2,9 @@
 Harvard's GD50 Class Assignments
 
 0 - Pong* : Implemented Player 2 AI  
+  
 1 - Flappy Bird* : Implemented Randomized Pipe spawns, Randomized vertical gaps between pipes, Pause feature, Pause sound, Award tiers  
+  
 2 - Breakout  
 3 - Match 3  
 4 - Super Mario Bros.  

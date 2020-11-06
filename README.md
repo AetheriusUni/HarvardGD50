@@ -1,8 +1,8 @@
 # HarvardGD50
 Harvard's GD50 Class Assignments
 
-0 - Pong *  
-1 - Flappy Bird  
+0 - Pong*  
+1 - Flappy Bird*  
 2 - Breakout  
 3 - Match 3  
 4 - Super Mario Bros.  

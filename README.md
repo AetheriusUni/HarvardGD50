@@ -1,5 +1,5 @@
 # HarvardGD50
-Harvard's GD50 Class Assignments
+Harvard's GD50 (AKA CS50G) Class Assignments
 
 0 - Pong* : Implemented Player 2 AI  
   
